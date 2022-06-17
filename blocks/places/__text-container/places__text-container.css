@@ -1,7 +1,12 @@
 .places__text-container {
-    margin-left: 4.05%;
     display: flex;
-    flex-direction: column;
-    max-width: 484px;
-    justify-content: center;
+    align-items: flex-end;
+    margin-bottom: 48px;
+}
+
+@media screen and (max-width: 1023px){
+    .places__text-container{
+        display: block;
+        margin: 0 18px 32px 18px;
+    }
 }
