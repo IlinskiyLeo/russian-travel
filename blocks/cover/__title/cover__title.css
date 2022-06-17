@@ -2,11 +2,19 @@
     position: relative;
     margin: 0 auto;
     padding-top: 245px;
-    max-width: 45%;
     font-family: Inter Bolder;
     font-weight: 900;
     font-size: 72px;
     line-height: 1.06;
     text-align: center;
     z-index: 5;
+}
+
+@media screen and (max-width:320px) {
+    .cover__title {
+        padding-top: 33px;
+        font-size: 32px;
+        line-height: 1.09;
+        max-width: 288px;
+    }
 }

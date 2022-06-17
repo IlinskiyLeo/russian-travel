@@ -6,3 +6,11 @@
     text-align: center;
     z-index: 5;
 }
+
+@media screen and (max-width: 320px) {
+    .cover__text {
+        padding: 16px 0 33px 0;
+        font-size: 14px;
+        line-height: 1.14;
+    }
+}
