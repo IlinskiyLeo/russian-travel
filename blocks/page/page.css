@@ -1,11 +1,11 @@
 @font-face {
     font-family: Inter;
-    src: url(/fonts/Inter-VariableFont_slnt\,wght.ttf);
+    src: url(../fonts/Inter-VariableFont_slnt\,wght.ttf);
 }
 
 @font-face {
     font-family: Inter Bolder;
-    src: url(/fonts/static/Inter-ExtraBold.ttf);
+    src: url(../fonts/static/Inter-ExtraBold.ttf);
 }
 
 .page {
