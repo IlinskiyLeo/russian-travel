@@ -1,0 +1,10 @@
+.lead__title {
+    font-family: 'Inter Bolder';
+    margin: auto;
+    text-align: center;
+    padding-top: 56px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 1.04;
+}
