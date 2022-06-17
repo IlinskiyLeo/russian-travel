@@ -1,8 +1,5 @@
 .places__card {
     max-width: 100%;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
     margin-bottom: 80px;
 }
 
