@@ -4,8 +4,9 @@
     position: relative;
     margin: 0 auto;
     padding: 32px 0 245px 0;
-    text-decoration: none;
     text-align: center;
+    text-decoration: none;
+    color: #fff;
     z-index: 5;
 }
 
