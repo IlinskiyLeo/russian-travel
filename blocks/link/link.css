@@ -8,3 +8,7 @@
     opacity: .8;
     transition: opacity .3s;
 }
+
+.link:active {
+    text-decoration: none;
+}
