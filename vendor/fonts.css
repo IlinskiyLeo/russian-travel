@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Inter;
+    src: url("/russian-travel/fonts/static/Inter-Regular.ttf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Inter Black;
+    src: url("/russian-travel/fonts/static/Inter-Black.ttf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Inter Bolder;
+    src: url("/russian-travel/fonts/static/Inter-Bold.ttf");
+    font-weight: bolder;
+}
