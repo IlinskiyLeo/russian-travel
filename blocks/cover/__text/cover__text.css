@@ -13,6 +13,14 @@
     z-index: 5;
 }
 
+@media screen and (max-width: 768px) {
+    .cover__text {
+        padding: 32px 0 115px 0;
+        font-size: 18px;
+        line-height: 1.22;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .cover__text {
         padding: 16px 0 33px 0;
@@ -21,11 +29,4 @@
     }
 }
 
-@media screen and (max-width: 768px) {
-    .cover__text {
-        padding: 32px 0 115px 0;
-        font-size: 18px;
-        line-height: 1.22;
-    }
-}
 
