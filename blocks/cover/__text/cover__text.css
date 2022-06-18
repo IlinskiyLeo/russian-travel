@@ -4,7 +4,6 @@
     position: relative;
     margin: 0 auto;
     padding: 32px 0 245px 0;
-    max-width: fit-content;
     text-align: center;
     z-index: 5;
 }
