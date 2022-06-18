@@ -3,14 +3,14 @@
     max-width: 1184px;
     max-height: 740px;
     margin: 92px auto auto;
-    background-image: url("/russian-travel/images/cover-trains.jpg");
+    background-image: url("/images/cover-trains.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
 }
 
-.cover:hover .cover__overlay {
+.cover:hover .cover__overlay::before {
     opacity: .8;
     transition: opacity 0.3s;
 }
