@@ -6,6 +6,6 @@
 В данном проекте использовались языки HTML/CSS
 Ширина экранов под которые адаптирована страница: 1280px, 1024px, 768px, 320px.
 
-###Ссылка на GitHub Pages: https://ilinskiyleo.github.io/russian-travel/
+### Ссылка на GitHub Pages: https://ilinskiyleo.github.io/russian-travel/
 
 Большое спасибо команде Яндекс.Практикума за поддержку!
