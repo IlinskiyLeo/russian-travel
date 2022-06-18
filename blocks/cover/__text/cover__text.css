@@ -1,7 +1,8 @@
 .cover__text {
+    display: inline-block;
+    max-width: 360px;
     position: relative;
     margin: 0 auto;
-    max-width: 360px;
     padding: 32px 0 245px 0;
     max-width: fit-content;
     text-align: center;
