@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Inter';
-    src: url("./fonts/static/Inter-Regular.ttf");
+    src: url("{{ 'fonts/static/Inter-Regular.ttf' | relative_url }}");
     font-weight: normal;
 }
 
