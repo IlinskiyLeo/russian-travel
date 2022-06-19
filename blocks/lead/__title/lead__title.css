@@ -1,5 +1,6 @@
 .lead__title {
-    font-family: 'Inter Bolder';
+    font-family: 'Inter';
+    font-weight: 900;
     margin: auto;
     max-width: 720px;
     text-align: center;

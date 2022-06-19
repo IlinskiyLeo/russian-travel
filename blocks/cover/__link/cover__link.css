@@ -1,5 +1,12 @@
 .cover__link {
+    position: relative;
+    z-index: 2;
     text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
 }
 
 .cover__link:active {
