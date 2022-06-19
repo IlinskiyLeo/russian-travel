@@ -8,3 +8,9 @@
 .header__links-element:nth-child(2) {
     margin-right: 48px;
 }
+
+@media screen and (max-width:767px) {
+    .header__links-element:nth-child(2) {
+        margin-right: 16px;
+    }
+}
