@@ -4,12 +4,18 @@
     left: 0;
     width: 100%;
     height: 100%;
-
 }
 
-.cover__overlay::before { /*Не работает*/
-    z-index: 2;
-    opacity: .3;
+.cover__overlay:hover:before { /*Не работает*/
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
     background-color: #2A2C2F;
+    opacity: .3;
+    z-index: 100;
+    
+    
     /*по поводу шрифтов, проект уже задеплоен на gh-pages и ссылки типизированы под веб-сервер, потому шрифт на локалхосте не работает в ридми есть ссылка на проект опубликованный там все корректно, не ругайся <3*/
 }
