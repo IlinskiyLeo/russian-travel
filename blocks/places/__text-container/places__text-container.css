@@ -9,3 +9,10 @@
         margin: 0 0 48px 0;
     }
 }
+
+@media screen and (max-width: 767px){
+    .places__text-container {
+        display: block;
+        margin-left: 16px;
+    }
+}

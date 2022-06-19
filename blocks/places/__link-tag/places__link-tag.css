@@ -5,3 +5,9 @@
     font-size: 12px;
     line-height: 1;
 }
+
+@media screen and (max-width:767px) {
+    .places__link-tag {
+        margin-top: 32px;
+    }
+}

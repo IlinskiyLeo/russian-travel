@@ -12,6 +12,7 @@
 
 @media screen and (max-width:767px) {
     .photo-grid__list {
+        margin: 0 16px;
         padding-top: 64px;
         grid-gap: 12px;
     }
