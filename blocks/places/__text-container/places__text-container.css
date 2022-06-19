@@ -14,5 +14,6 @@
     .places__text-container {
         display: block;
         margin-left: 16px;
+        margin-bottom: 32px;
     }
 }

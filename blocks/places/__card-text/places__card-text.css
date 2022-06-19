@@ -6,6 +6,17 @@
     line-height: 1.63;
 }
 
+.places__card-text:last-child{
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 1023px){
+    .places__card-text{
+        font-size: 16px;
+        line-height: 1.63;
+    }
+}
+
 @media screen and (max-width: 767px){
     .places__card-text{
         margin: 32px 18px 25px 18px;
